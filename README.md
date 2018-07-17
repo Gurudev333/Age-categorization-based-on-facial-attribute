@@ -1,7 +1,7 @@
 # Age-categorization-based-on-facial-attribute-using-deep-learning-
 Shown using</br>
-1.claassical approach</br>
-2.Convolutional neural network
+1.Claassical approach</br>
+2.Convolutional neural network</br></br>
 •Goal is to predict age category using facial attributes.</br>
 •It includes image preprocessing,series of convolutions, feature maps, pooling.</br>
 •It is multi class classification problem in which young, middle, old are the classes.</br>
