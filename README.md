@@ -1,9 +1,6 @@
-# Age-categorization-based-on-facial-attribute-using-deep-learning-
+# Age-categorization-based-on-facial-Attributes
 Shown using</br>
-1.Claassical approach</br>
-2.Convolutional neural network</br></br>
-•Goal is to predict age category using facial attributes.</br>
-•It includes image preprocessing,series of convolutions, feature maps, pooling.</br>
-•It is multi class classification problem in which young, middle, old are the classes.</br>
-•Libraries used are keras, sklearn, scipy, numpy, pandas.</br>
-•Python is used for the programming and Jupytor Notebook as IDE.
+•It is multi class classification problem in which goal is to predict age category using facial attributes with convolutional Neural Network approach.</br>
+•It includes tasks data augmentation with resizing, rotation, zooming of images, batch normalization, dropout regularization, feature mapping.</br>
+•Libraries used are keras, tensorflow, sklearn, scipy, numpy, pandas.</br>
+•Tried different approaches using MLP,CNN, but more accuracy is achived by CNN with data agumentation, batch normalization and dropout regularization.
